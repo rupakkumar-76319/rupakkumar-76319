@@ -81,3 +81,4 @@ I treat GitHub as a living portfolio and learning log, consistently pushing proj
 <p align="center">
   <img height="165" src="./github-stats.svg" />
 </p>
+![Stats](./profile/stats.svg)
