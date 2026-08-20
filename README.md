@@ -78,7 +78,7 @@ I treat GitHub as a living portfolio and learning log, consistently pushing proj
 
 ### 📊 GitHub Stats
 
-<p align="center">
+[<p align="center">
   <img height="165" src="./github-stats.svg" />
 </p>
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg)](https://github.com/rupakkumar-76319/rupakkumar-76319/blob/main/.github/workflows/stats.yml)
