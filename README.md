@@ -75,9 +75,6 @@ I treat GitHub as a living portfolio and learning log, consistently pushing proj
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
 ### 📊 GitHub Stats
 
 <p align="center">
