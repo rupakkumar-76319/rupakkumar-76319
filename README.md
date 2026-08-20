@@ -2,7 +2,7 @@
 <h3 align="center">AI / ML / Data Science Engineer | Turning Data into Decisions</h3>
 
 <p align="center">
-  <a href="https://rupakkumar.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+  <a href="https://portfolio-six-theta-45.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
   <a href="https://www.linkedin.com/in/rupak-kumar-76319-24f2001886/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Rupak76319" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="mailto:rupakkumar76319@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
