@@ -79,13 +79,5 @@ I treat GitHub as a living portfolio and learning log, consistently pushing proj
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rupakkumar-76319&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupakkumar-76319&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rupakkumar-76319&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=rupakkumar-76319&icon=0&color=0" /></a>
+  <img height="165" src="./github-stats.svg" />
 </p>
