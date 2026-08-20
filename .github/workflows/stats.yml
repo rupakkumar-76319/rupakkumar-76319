@@ -1,0 +1,20 @@
+name: Generate GitHub Stats
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anuraghazra/github-readme-stats-action@v1
+        with:
+          username: rupakkumar-76319
+          output: "github-stats.svg"
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub stats"
