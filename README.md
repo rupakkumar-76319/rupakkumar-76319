@@ -94,5 +94,9 @@ Also on my profile: an [algorithmic trading backtester](https://github.com/rupak
 <img src="https://komarev.com/ghpvc/?username=rupakkumar-76319&label=Profile%20Views&color=2ea44f&style=for-the-badge" />
 </p>
 <p align="center">
-<img src="./profile/stats.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rupakkumar-76319&include_all_commits=true&show_icons=true&theme=default&custom_title=All-Time%20GitHub%20Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rupakkumar-76319&show_icons=true&theme=default&custom_title=Last%20Year%20GitHub%20Stats" width="48%" />
 </p>
+<!-- <p align="center">
+<img src="./profile/stats.svg" />
+</p> -->
