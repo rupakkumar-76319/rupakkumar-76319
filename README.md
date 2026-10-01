@@ -91,7 +91,9 @@ Also on my profile: an [algorithmic trading backtester](https://github.com/rupak
 ---
 
 ### 📊 GitHub Stats
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rupakkumar-76319&label=Profile%20Views&color=2ea44f&style=for-the-badge" />
+</p>
 <p align="center">
 <img src="./profile/stats.svg" />
 </p>
