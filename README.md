@@ -11,7 +11,6 @@
 ---
 
 ### 💫 About
-![Profile views](https://komarev.com/ghpvc/?username=rupakkumar-76319&color=blue&style=flat)
 I build AI systems end to end — LLM-powered applications, agent tooling, and deep learning models that run behind real APIs instead of staying in notebooks.
 
 Recent work includes a Gemini-powered resume analyzer served through FastAPI, an MCP server that exposes GitHub as structured tools to AI assistants, and a six-architecture benchmark for real-time sign language recognition.
